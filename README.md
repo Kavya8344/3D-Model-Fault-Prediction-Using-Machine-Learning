@@ -22,19 +22,13 @@ This project predicts **faults in a 3D model** using sensor data and coordinates
 
 
 .
-├── LP3_3D_Printer.ipynb # Jupyter Notebook for ML workflow
-|
-├── app.py # Flask web application
-|
-├── model.pkl # Saved ML model
-|
-├── ADXL345_SensorData.csv # Sensor coordinate data
-|
-├── static/ # Static files (CSS, images, videos)
-|
-├── templates/ # HTML templates for web pages
-|
-└── README.md # This file
+├── LP3_3D_Printer.ipynb # Jupyter Notebook for ML workflow                                                                  
+├── app.py # Flask web application                                                                                           
+├── model.pkl # Saved ML model                                                                                               
+├── ADXL345_SensorData.csv # Sensor coordinate data                                                                          
+├── static/ # Static files (CSS, images, videos)                                                                             
+├── templates/ # HTML templates for web pages                                                                                
+└── README.md # This file                                                                                                                     
 
 
 
